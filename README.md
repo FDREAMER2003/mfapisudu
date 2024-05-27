@@ -11,7 +11,7 @@ This project is a simple PHP application that fetches and displays mutual fund d
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/mfapi-project.git
+git clone https://github.com/FDREAMER2003/mfapisudu.git
 cd mfapi-project
 ```
 
