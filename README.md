@@ -12,18 +12,18 @@ This project is a simple PHP application that fetches and displays mutual fund d
 
 ```bash
 git clone https://github.com/FDREAMER2003/mfapisudu.git
-cd mfapi-project
+cd mfapisudu
 ```
 
 ### Open in Browser
 
-Navigate to `bash http://localhost/mfapi-project` (or the appropriate address for your web server setup).
+Navigate to `bash http://localhost/mfapisudu` (or the appropriate address for your web server setup).
 
 ## Usage
 
 ### Open the Application
 
-Open your web browser and go to the URL where the project is hosted (e.g. http://localhost/mfapi-project).
+Open your web browser and go to the URL where the project is hosted (e.g. http://localhost/mfapisudu).
 
 ### Enter a mutual fund code
 
