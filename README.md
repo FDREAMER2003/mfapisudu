@@ -17,7 +17,7 @@ cd mfapisudu
 
 ### Open in Browser
 
-Navigate to `bash http://localhost/mfapisudu` (or the appropriate address for your web server setup).
+Navigate to ` http://localhost/mfapisudu` (or the appropriate address for your web server setup).
 
 ## Usage
 
