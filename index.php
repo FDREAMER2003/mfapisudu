@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>MFAPI Example</title>
+    <title>MFAPI Project</title>
     <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
